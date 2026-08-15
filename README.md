@@ -1,6 +1,7 @@
 # Turbofan Engine — Remaining Useful Life (RUL) Prediction
 
 Predicts how many operating cycles a jet engine has left before failure, using sensor readings, for predictive maintenance decision-making.
+![App Screenshot](screenshot.png)
 
 ## Problem
 
